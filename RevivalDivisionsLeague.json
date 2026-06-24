@@ -1,6 +1,6 @@
 {
 	"Name": "Revival Balancing",
-	"Version": 1782131674,
+	"Version": 1782304715,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -352,7 +352,8 @@
 				0,
 				5,
 				25,
-				30
+				30,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -432,7 +433,8 @@
 				5,
 				7,
 				25,
-				30
+				30,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -520,7 +522,8 @@
 				14,
 				25,
 				30,
-				5
+				5,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -602,7 +605,8 @@
 			"ItemWhitelist": [
 				5,
 				0,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -729,7 +733,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -848,7 +853,8 @@
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				0,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -920,7 +926,8 @@
 				0,
 				5,
 				30,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1106,7 +1113,8 @@
 			"ItemWhitelist": [
 				5,
 				0,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1234,7 +1242,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1305,7 +1314,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1381,7 +1391,8 @@
 			"ItemWhitelist": [
 				0,
 				25,
-				5
+				5,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1460,9 +1471,9 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				7,
 				30,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1541,7 +1552,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1620,7 +1632,8 @@
 			"ItemWhitelist": [
 				0,
 				30,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1702,7 +1715,8 @@
 				7,
 				14,
 				25,
-				30
+				30,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1789,7 +1803,8 @@
 			"ItemWhitelist": [
 				0,
 				30,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1970,7 +1985,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2045,7 +2061,8 @@
 			"ItemWhitelist": [
 				5,
 				0,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2174,7 +2191,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2249,7 +2267,9 @@
 			"ItemWhitelist": [
 				0,
 				25,
-				30
+				30,
+				5,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2431,7 +2451,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2611,7 +2632,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2683,7 +2705,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2758,7 +2781,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2838,7 +2862,8 @@
 				0,
 				5,
 				30,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2924,7 +2949,8 @@
 				0,
 				5,
 				30,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3002,7 +3028,8 @@
 			"ItemWhitelist": [
 				5,
 				0,
-				25
+				25,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3080,7 +3107,8 @@
 				0,
 				5,
 				25,
-				30
+				30,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3218,7 +3246,8 @@
 				5,
 				7,
 				25,
-				30
+				30,
+				27
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
