@@ -1,6 +1,6 @@
 {
 	"Name": "Revival Balancing",
-	"Version": 1782304715,
+	"Version": 1783083229,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1471,6 +1471,7 @@
 			"ItemWhitelist": [
 				0,
 				5,
+				7,
 				30,
 				25,
 				27
@@ -2239,7 +2240,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"0",
-				"9",
+				"15",
 				"39"
 			],
 			"BalanceTiers": [
